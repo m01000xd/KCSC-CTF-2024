@@ -35,9 +35,13 @@ Giờ chúng ta sẽ patch lại key
 ![image](https://github.com/m01000xd/KCSC-CTF-2024/assets/122852491/5eac91f8-d204-4d9e-8b3c-ba6b2f494215)
 Nháy vào dòng Str, sau đó lên Edit, Patch program, Change byte
 ![image](https://github.com/m01000xd/KCSC-CTF-2024/assets/122852491/42eb3441-2bf0-479d-b7fe-31d31ebada96)
+
 Sửa thành 46 41 2B 2B 21
+
 ![image](https://github.com/m01000xd/KCSC-CTF-2024/assets/122852491/0030dd9e-5b62-424e-8adc-b73e005cb029)
+
 Sau đó đặt breakpoint lại
+
 ![image](https://github.com/m01000xd/KCSC-CTF-2024/assets/122852491/da237857-d24b-4f3e-af67-064930ad98ad)
 ![image](https://github.com/m01000xd/KCSC-CTF-2024/assets/122852491/e4223e59-2da5-46f5-bf22-1d1e48c6c90f)
 ![image](https://github.com/m01000xd/KCSC-CTF-2024/assets/122852491/5ab223fc-b0be-4c76-9bfe-9429c13c38b8)
