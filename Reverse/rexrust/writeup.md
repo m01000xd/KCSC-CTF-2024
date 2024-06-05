@@ -103,5 +103,5 @@ for i in range(256):
 
 ```
 ### Flag
-**KCSC{r3v3rs3_rust_1s_funny_4nd_34sy_227da29931351}**
+__KCSC{r3v3rs3_rust_1s_funny_4nd_34sy_227da29931351}__
 
